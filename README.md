@@ -146,6 +146,7 @@ hs.commit(session_id, user_text)
 - 架构参考：[Ombre-Brain](https://github.com/P0luz/Ombre-Brain) — P0luz；[Haven-Ombre](https://github.com/Yinglianchun/Haven-Ombre) — Yinglianchun
 - 概念参考：Kli × Ombre Brain 白皮书 3.3 节 — Liliyet（Kli）
 - 相关实践：Scarlett 记忆系统（架构图，未发布仓库）— saekisui；[Nocturne-Memory-Core](https://github.com/Pyruslili/Nocturne-Memory-Core) — Pyruslili；[Serein](https://github.com/Yinglianchun/Serein) — Yinglianchun；[InternalBeyond](https://github.com/Sui-IB/InternalBeyond) — Sui
+- 同路的人（发布以后才看到）：[Dayflow · 日序](https://github.com/0xblewalker/dayflow) — 0xblewalker。也在管日常陪伴聊天里的「现在」：过期的「明天」、没确认的计划、做完了该退场的事。走的是另一条路：整段对话都留着，只把一枚可替换的状态胶囊和最近几轮原话交给模型，围着缓存做遗忘。两边互不相识，各自长出来，放在一起看会更清楚。
 
 breath 这个入口来自 Ombre-Brain；「持续环境」的说法来自 Kli 白皮书 3.3 节；其余机制是这里长出来的。
 
